@@ -1,8 +1,16 @@
+virtualenv
 jupyter
 pandas
 numpy
 matplotlib
 seaborn
 scipy
-sklearn
+scikit-learn
 xgboost
+lightgbm
+catboost
+tensorflow
+keras
+torch
+fastai
+mlflow
